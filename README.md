@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elizabravo
-- 👀 I’m interested in Technology, Music, and Arts
+- 👀 I’m interested in Technology, and Computer Science
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on edx projects
 - 📫 How to reach me @artisteli.59
